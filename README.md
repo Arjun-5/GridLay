@@ -17,3 +17,5 @@ A small physics-based puzzle project where:
 ---
 
 Made with Unity 🚀
+
+[![Watch the video](https://github.com/user-attachments/assets/69154c05-843f-4d56-b659-6f7d8193e6d1)](https://drive.google.com/file/d/12K-fAKxCBhz3iB4PQOIEm5ZCcDeOXuQw/view?usp=sharing)
