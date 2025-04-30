@@ -19,4 +19,4 @@ A small physics-based puzzle project where:
 Made with Unity 🚀
 
 
-<img src="./Assets/Demo/Demo.gif" width="50%" height="50%" style="border-radius:8px"/>
+<img src="./Assets/Demo/Demo.gif" width="40%" height="40%" style="border-radius:8px"/>
