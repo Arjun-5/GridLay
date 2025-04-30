@@ -18,4 +18,5 @@ A small physics-based puzzle project where:
 
 Made with Unity 🚀
 
-<img src="https://dl.dropboxusercontent.com/scl/fi/rwnysqzki3ii8kwhezhbf/Demo.gif?rlkey=h4kg5t4xlboh0gukkbb09627o&st=gyzmjuvl" width="300" style="border-radius:8px" alt="Demo GIF"/>
+
+<img src="./Assets/Demo/Demo.gif" width="50%" height="50%" style="border-radius:8px"/>
