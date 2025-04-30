@@ -18,4 +18,4 @@ A small physics-based puzzle project where:
 
 Made with Unity 🚀
 
-![Demo](assets/demo.gif)
+![Demo](Assets/Demo.gif)
